@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @nolanacary-elf
-- 👀 I’m interested in open source concepts and how they can improve human civilization.
-- 🌱 I’m currently learning to code using python.
-- 💞️ I’m looking to collaborate on blockchain projects.
+-Welcome to my profile. 
 
 <!---
 nolanacary-elf/nolanacary-elf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
